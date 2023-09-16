@@ -1,0 +1,15 @@
+/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net7.0/MyFirstConsoleApplication
+/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net7.0/MyFirstConsoleApplication.deps.json
+/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net7.0/MyFirstConsoleApplication.runtimeconfig.json
+/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net7.0/MyFirstConsoleApplication.dll
+/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net7.0/MyFirstConsoleApplication.pdb
+/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.csproj.AssemblyReference.cache
+/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.AssemblyInfoInputs.cache
+/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.AssemblyInfo.cs
+/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.dll
+/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/refint/MyFirstConsoleApplication.dll
+/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.pdb
+/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.genruntimeconfig.cache
+/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/ref/MyFirstConsoleApplication.dll
