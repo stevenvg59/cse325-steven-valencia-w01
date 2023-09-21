@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/MyFirstConsoleApplication.csproj": {}
+    "/Users/assi/Projects/cse325-steven-valencia-w01/MyFirstConsoleApplication/MyFirstConsoleApplication/MyFirstConsoleApplication.csproj": {}
   },
   "projects": {
-    "/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/MyFirstConsoleApplication.csproj": {
+    "/Users/assi/Projects/cse325-steven-valencia-w01/MyFirstConsoleApplication/MyFirstConsoleApplication/MyFirstConsoleApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/MyFirstConsoleApplication.csproj",
+        "projectUniqueName": "/Users/assi/Projects/cse325-steven-valencia-w01/MyFirstConsoleApplication/MyFirstConsoleApplication/MyFirstConsoleApplication.csproj",
         "projectName": "MyFirstConsoleApplication",
-        "projectPath": "/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/MyFirstConsoleApplication.csproj",
+        "projectPath": "/Users/assi/Projects/cse325-steven-valencia-w01/MyFirstConsoleApplication/MyFirstConsoleApplication/MyFirstConsoleApplication.csproj",
         "packagesPath": "/Users/assi/.nuget/packages/",
-        "outputPath": "/Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/",
+        "outputPath": "/Users/assi/Projects/cse325-steven-valencia-w01/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/assi/.nuget/NuGet/NuGet.Config"

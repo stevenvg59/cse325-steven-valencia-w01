@@ -13,10 +13,12 @@ namespace MyFirstConsoleApplication
             name = "Steven";
             location = "Lima, Peru";
             Console.WriteLine("My name is " + name + ". I'm from " + location);
+            Console.ReadKey();
 
             //Display current date
             string now = DateTime.Now.ToString("dd/MM/yyyy");
             Console.WriteLine( "Today is " + now);
+            Console.ReadKey();
 
 
             //Display days until Christmas

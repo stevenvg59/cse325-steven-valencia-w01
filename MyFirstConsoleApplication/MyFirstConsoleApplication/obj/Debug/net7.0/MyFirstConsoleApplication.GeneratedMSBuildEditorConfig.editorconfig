@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyFirstConsoleApplication
-build_property.ProjectDir = /Users/assi/BYU/CSE325/projects/MyFirstConsoleApplication/MyFirstConsoleApplication/
+build_property.ProjectDir = /Users/assi/Projects/cse325-steven-valencia-w01/MyFirstConsoleApplication/MyFirstConsoleApplication/
